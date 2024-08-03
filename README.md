@@ -9,7 +9,6 @@ The EDR Endpoint Security System is designed to monitor, detect, and respond to 
 
 ## Project Structure
 
-```
 
 
 
@@ -24,7 +23,7 @@ EDR-Endpoint-Security/
 ###│   ├── requirements.txt
 ###│   └── edr.db
 ###└── README.md
-
+```
 ## Components
 ### Endpoint Agent
 ### Centralized Management Console

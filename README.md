@@ -12,21 +12,19 @@ The EDR Endpoint Security System is designed to monitor, detect, and respond to 
 ```
 
 
-###
+
 EDR-Endpoint-Security/
-│
-├── endpoint_agent/
-│   └── agent.py
-│
-├── management_console/
-│   ├── app.py
-│   ├── templates/
-│   │   └── dashboard.html
-│   ├── requirements.txt
-│   └── edr.db
-│
-└── README.md
-###
+
+#├── endpoint_agent/
+#│   └── agent.py
+#├── management_console/
+#│   ├── app.py
+#│   ├── templates/
+#│   │   └── dashboard.html
+#│   ├── requirements.txt
+#│   └── edr.db
+#└── README.md
+
 ## Components
 ### Endpoint Agent
 ### Centralized Management Console

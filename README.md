@@ -3,14 +3,26 @@ Sure, here is the complete `README.md` file in Markdown format for your EDR Endp
 ```markdown
 # EDR Endpoint Security System
 
-## Overview
+## Introduction
 
 The EDR Endpoint Security System is designed to monitor, detect, and respond to security threats on endpoints within an organization's network. This project includes an endpoint agent that collects system information and a centralized management console that displays the collected data and alerts on a web-based dashboard.
 
+
+## Features
+- Real-time monitoring of endpoint activities
+- Advanced threat detection algorithms
+- Automated response to detected threats
+- Comprehensive reporting and analytics
+- Integration with existing security infrastructure
+
+## Installation
+
+### Prerequisites
+- **Node.js**: Ensure Node.js is installed to run the application.
+- **MongoDB**: A MongoDB instance is required for data storage.
+- **Git**: Git is needed to clone the repository.
+
 ## Project Structure
-
-
-
 
 EDR-Endpoint-Security/
 
